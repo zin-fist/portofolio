@@ -2,6 +2,42 @@ h1{
   color: rgb(179, 119, 41);
   font-family: Arial, Helvetica, sans-serif;
 }
+.hover{
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+.hover:hover{
+  transform: scale(1.2);
+  color: #ff6600;
+}
+
+.hover2{
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+.hover2:hover{
+  transform: scale(1.2);
+  color: #ff6600;
+}
+.hover3{
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+.hover3:hover{
+  transform: scale(1.2);
+  color: #ff6600;
+}
+.hover4{
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+.hover4:hover{
+  transform: scale(1.2);
+  color: #ff6600;
+}
+.hover5{
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+.hover5:hover{
+  transform: scale(1.2);
+  color: #ff6600;
+}
 footer{
   background-color: bisque;
   text-align: center;
